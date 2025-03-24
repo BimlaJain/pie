@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "avantt";
+    src: url("../assets/fonts/AvanttTRIAL-Regular-BF6721a86b1a848.otf");
+}
+
+.ff-avantt{
+    font-family: "avantt" sans-serif;
+}
+
+.bg-real-time{
+    background-image: url("../assets/images/png/real-time-bg.png");
+}
+
+.bg-income{
+    background-image: url("../assets/images/png/income-bg.png");
+}
+
+.bg-invoicing{
+    background-image: url("../assets/images/png/invoicing-bg.png");
+}
+
+.bg-bookkeeping{
+    background-image: url("../assets/images/png/bookkeeping-bg.png");
+}
